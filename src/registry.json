@@ -1,20 +1,29 @@
 {
   "title": "MerokuDAO dAPP Store Registry Local",
-  "chains": [1, 137],
+  "chains": [
+    1,
+    137
+  ],
   "dapps": [
     {
       "name": "CryptoBoys NFT Marketplace",
       "repoUrl": "https://github.com/r4881t/cryptoboys-nft-marketplace",
       "description": "A Simple NFT Marketplace by CryptoBoys.",
-      "tags": ["nft creator"],
-      "chains": [137],
+      "tags": [
+        "nft creator"
+      ],
+      "chains": [
+        137
+      ],
       "dappId": "bitpack.example.dapp",
       "minAge": 13,
       "isForMatureAudience": false,
       "isSelfModerated": false,
       "language": "en",
       "version": "0.0.1",
-      "availableOnPlatform": ["web"],
+      "availableOnPlatform": [
+        "web"
+      ],
       "isListed": true,
       "listDate": "2022-12-12",
       "developer": {
@@ -49,10 +58,17 @@
       "version": "0.1.0",
       "isListed": true,
       "listDate": "2021-11-13",
-      "availableOnPlatform": ["web"],
+      "availableOnPlatform": [
+        "web"
+      ],
       "geoRestrictions": {
-        "allowedCountries": ["US", "IN"],
-        "blockedCountries": ["CN"]
+        "allowedCountries": [
+          "US",
+          "IN"
+        ],
+        "blockedCountries": [
+          "CN"
+        ]
       },
       "developer": {
         "legalName": "John Doe & Sons",
@@ -65,8 +81,13 @@
         },
         "githubID": "r4881t"
       },
-      "tags": ["nft maker"],
-      "chains": [1, 137],
+      "tags": [
+        "nft maker"
+      ],
+      "chains": [
+        1,
+        137
+      ],
       "category": "books"
     },
     {
@@ -89,7 +110,9 @@
       "isListed": true,
       "repoUrl": "https://github.com/meroku-dao/",
       "listDate": "2023-01-12",
-      "availableOnPlatform": ["web"],
+      "availableOnPlatform": [
+        "web"
+      ],
       "developer": {
         "legalName": "Adarsh Mishra",
         "logo": "https://avatars.githubusercontent.com/u/56035184?v=4",
@@ -100,8 +123,12 @@
         },
         "githubID": "adarshmishra07"
       },
-      "tags": ["dssdsd"],
-      "chains": [137],
+      "tags": [
+        "dssdsd"
+      ],
+      "chains": [
+        137
+      ],
       "category": "books"
     },
     {
@@ -124,7 +151,9 @@
       "isListed": true,
       "repoUrl": "https://github.com/meroku-dao/",
       "listDate": "2023-01-16",
-      "availableOnPlatform": ["web"],
+      "availableOnPlatform": [
+        "web"
+      ],
       "developer": {
         "legalName": "Adarsh Mishra",
         "logo": "https://avatars.githubusercontent.com/u/56035184?v=4",
@@ -135,16 +164,26 @@
         },
         "githubID": "adarshmishra07"
       },
-      "tags": ["test", "dapp", "buidler", "mintq"],
-      "chains": [137],
-
+      "tags": [
+        "test",
+        "dapp",
+        "buidler",
+        "mintq"
+      ],
+      "chains": [
+        137
+      ],
       "category": "social networking"
     }
   ],
   "featuredSections": [
     {
       "title": "Curated List",
-      "dappIds": ["bitpack.example.dapp", "test.minter.dapp"],
+      "dappIds": [
+        "bitpack.example.dapp",
+        "test.minter.dapp",
+        "mint.buidl.dapp"
+      ],
       "description": "A curated list of dapps that we think you will love.",
       "key": "curated-list"
     }
