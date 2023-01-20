@@ -180,7 +180,6 @@
     {
       "title": "Curated List",
       "dappIds": [
-        "bitpack.example.dapp",
         "test.minter.dapp",
         "mint.buidl.dapp"
       ],
