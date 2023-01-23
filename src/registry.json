@@ -176,15 +176,5 @@
       "category": "social networking"
     }
   ],
-  "featuredSections": [
-    {
-      "title": "Curated List",
-      "dappIds": [
-        "test.minter.dapp",
-        "mint.buidl.dapp"
-      ],
-      "description": "A curated list of dapps that we think you will love.",
-      "key": "curated-list"
-    }
-  ]
+  "featuredSections": []
 }
